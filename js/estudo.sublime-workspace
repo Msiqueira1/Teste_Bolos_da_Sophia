@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valor",
+				"valor1"
+			],
+			[
+				"valo",
+				"valor1"
+			],
+			[
+				"co",
+				"contain"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"g",
+				"groove"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"t",
+				"telefone"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"blue",
+				"darkblue"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"white",
+				"ghostwhite"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"b",
+				"br"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Marcos/AppData/Roaming/Sublime Text 3/Packages/User/JavaScrip.sublime-build",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/css/bootstrap.css",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/css/estilo.css",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/paginas/contato.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/paginas/produtos.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/paginas/quemSomos.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/index.html",
+		"/C/Users/Marcos/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build.json",
+		"/C/Users/Marcos/AppData/Roaming/Sublime Text 3/Packages/User/{.json",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Bolos da Sophia - Marcos Siqueira/css/reset.css",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/css/estilo.css",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/index.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/quemSomos.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/index1.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/trabalheConosco.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/registrar.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/entrar.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/contato.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/css/estilo",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/elementosformatacao.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/exemplo.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/segundaPagina.html",
+		"/C/Users/Marcos/Desktop/Curso Prodabel/Projeto/Projeto - Marcos Siqueira de Oliveira/paginas/segundoPagina.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaScrip.sublime-build",
+	"project": "estudo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

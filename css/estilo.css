@@ -1,0 +1,62 @@
+*{
+	/*width: 100%;*/
+	height: auto;
+}
+
+.fotoInicial {
+	float: auto; 
+	alt: "Bolos da Sophia";
+	width: 100%; 
+	height: auto;
+	
+}
+
+.corpo {
+	background-color: gainsboro;
+	font-family: garamond;
+  	background-image: url("../img/bolos-caseirinhos.jpg");
+  	background-position: right top;
+  	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+  	background-attachment: fixed;
+}
+
+.menu {
+	border: groove;
+	border-width: 30px;
+	/*background-color: #351813; */
+	background-color: #582f28;
+	text-align: center; 
+	border: 2px solid black; 
+	width: 100%;
+	padding: 5px;
+}
+
+.paragrafoMenu {
+	font-size: 150%; 
+	color:silver;
+}
+
+.quemSomos {
+	font-size: 200%;
+	font-family: garamond;
+	color: white;
+}
+
+.form {
+	font-size: 100%;
+	font-family: garamond;
+	font-weight: bold;
+	text-align: justify;
+	color: silver;
+	margin-left: 20px;
+}
+
+.rodape{
+	background-color: #582f28; 
+	font-family: garamond;
+	color: silver;
+	text-align: center;  
+	border: 2px solid black; 
+	width: 100%;
+}
